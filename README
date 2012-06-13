@@ -1,0 +1,9 @@
+expect-update-arp-table-ADSL-router-for-wol
+
+Script to configure the Comtrend’s HG532c ADSL router ARP table for (WOL) Wake On Lan from internet using expect
+
+The script is very easy to understand. It just simulates a Telnet session with your router:
+
+Login and password
+Set the required MAC/IP tuple
+Displays the ARP table
